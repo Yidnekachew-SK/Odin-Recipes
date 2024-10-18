@@ -1,0 +1,30 @@
+body{
+	background-color: lightblue;
+}
+
+img{
+	width: 400px;
+	height: auto;
+}
+
+h1{
+	text-align: center;
+	color: green;
+	font-family: cursive;
+}
+
+h3{
+	color: purple;
+}
+
+h4{
+	color: brown;
+}
+
+p{
+	font-family: "Arial","sans-serif";
+}
+
+li{
+	font-family: "Trebuchet MS","sans-serif;";
+}
