@@ -1,3 +1,4 @@
+
 #main-Body{
 	background-color: lightgray;
 }
@@ -5,8 +6,12 @@
 .recipe-list .link{
 	font-size: 20px;
 	font-family: "Times New Roman","monospace";
+	padding: 15px;
+	margin: 5px;
 }
 
 h1{
 	font-family: cursive;
+	padding: 25px;
+	margin: 10px;
 }

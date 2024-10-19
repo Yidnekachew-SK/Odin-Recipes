@@ -5,26 +5,38 @@ body{
 img{
 	width: 400px;
 	height: auto;
+	display: block;
+	padding: 15px;
+	margin: 8px;
 }
 
 h1{
 	text-align: center;
 	color: green;
 	font-family: cursive;
+	padding: 20px;
+	margin: 5px;
 }
 
 h3{
 	color: purple;
+	padding: 12px;
+	margin: 5px;
 }
 
 h4{
 	color: brown;
+	padding: 10px;
+	margin: 5px;
 }
 
 p{
 	font-family: "Arial","sans-serif";
+	padding: 5px;
 }
 
 li{
-	font-family: "Trebuchet MS","sans-serif;";
+	font-family: "Trebuchet MS","sans-serif";
+	padding: 3px;
+	margin: 3px;
 }
